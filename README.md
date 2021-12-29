@@ -1,0 +1,1 @@
+Simple interpreter programmed in F# that allows the following operations: variable assignment, binary operations, equality operations, if statements, function declerations, and function calls. The interpreter supports lexical(dynamic) scoping and recursive function calls, see the sample programs bellow the comment ..Programs.. to see examples of how the interpreter works.
